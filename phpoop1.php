@@ -13,5 +13,4 @@ $robot1->set_name("devan");
 $robot2->set_name("reno");
 echo "namnya ". $robot1->get_name(). "<br>";
 echo "namnya ". $robot2->get_name(). "<br>";
-
 ?>
